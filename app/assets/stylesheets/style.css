@@ -956,6 +956,8 @@ Map
 h2 span , #jprePercentage{
 	color:#3498DB;
 }
+h2 {font-size:46px!important;}
+h2 span {font-size:46px;}
 .separator span , .hov-ef , .tooltip , #jpreBar , .navigation , .subscriptionForm input#submitButton , .submit_btn{
 	background:#3498DB;
 }
