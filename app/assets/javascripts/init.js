@@ -53,7 +53,7 @@ function initlaxy() {
 //------------------------------init countdown-----------------------
 
 	$('.countdown').downCount({
-		date: '05/25/2014 12:00:00', // your date
+		date: '06/25/2014 12:00:00', // your date
 		offset: 0
 	});	
 	
